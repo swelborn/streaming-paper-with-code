@@ -6,6 +6,12 @@
   - contains CSV data for file transfer jobs from the Distiller database, and job information from slurm. These are merged together to form merged_job_info.
   - contains `offload_times.csv`, which contains the averages of offload times.
   - contains streaming information, extracted by calculating the time difference between the first file write time at NCEM and last modified time of the H5 file at NERSC.
+  - contains `save_times.json`, which indicates how long it takes to save counted data to NERSC scratch filesystem
+    - this is extracted using `scripts/overhead/jobscript.sh`, which calls `scripts/overhead/count.py`.
+    - 4 sample regions and one blank were acquired for each dimension (128, 256, 512, 1024), and transferred to NERSC scratch as raw data files
+    - For each region (4 sample/1 blank), we ran the job script and extracted times for reading/counting (`"count_time"` in `save_times.json`) and write time (`"save_time"` in `save_times.json`)
+    - The save time was averaged for each data size, the blank save time was subtracted from each. This overhead was doubled and subtracted from the total file transfer times
+      - This subtraction is performed when creating the histograms/table in `scripts/compare/statistics_comparison_table.py` and `create_subplot_histograms.py`
 
 ## File offload
 

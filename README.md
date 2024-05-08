@@ -78,7 +78,7 @@ The output csv:
 | 4729        | 2023-10-16T15:50:44+00:00 | 2023-10-16T15:50:42+00:00 | 2023-10-16T15:50:46+00:00 | 2023-10-16T15:50:46+00:00 | 2023-10-16T15:50:48+00:00 |
 | ...         | ...                       | ...                       | ...                       | ...                       | ...                       |
 
-This was then performed sequentially, after offloading 10 datasets on each scan size:
+This was then performed sequentially, after offloading 30 datasets on each scan size:
 
 - 128:
 
@@ -97,7 +97,7 @@ This was then performed sequentially, after offloading 10 datasets on each scan 
   - Last scan #: 4827
   - Average: 33.2
 - 1024:
-  - First scan #: 4762
+  - First scan #: 4768
   - Last scan #: 4797
   - Average: 149.4 s
 

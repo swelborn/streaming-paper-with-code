@@ -1,0 +1,735 @@
+{
+    "00014": [
+        {
+            "timestamp": "240503_0733",
+            "count_time": 3.7968623638153076,
+            "total_time": 4.11768651008606,
+            "save_time": 0.2596719264984131,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0733",
+            "count_time": 3.9111080169677734,
+            "total_time": 4.249117612838745,
+            "save_time": 0.25165557861328125,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0733",
+            "count_time": 3.8947603702545166,
+            "total_time": 4.2340850830078125,
+            "save_time": 0.24921488761901855,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0733",
+            "count_time": 3.9173691272735596,
+            "total_time": 4.235145568847656,
+            "save_time": 0.2532937526702881,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0733",
+            "count_time": 3.926985025405884,
+            "total_time": 4.241139888763428,
+            "save_time": 0.24755072593688965,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00015": [
+        {
+            "timestamp": "240503_0733",
+            "count_time": 4.949839353561401,
+            "total_time": 5.979351758956909,
+            "save_time": 0.9838061332702637,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0734",
+            "count_time": 5.032447338104248,
+            "total_time": 6.138976335525513,
+            "save_time": 1.0156841278076172,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0734",
+            "count_time": 5.131952285766602,
+            "total_time": 6.22066068649292,
+            "save_time": 1.0164203643798828,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0734",
+            "count_time": 5.051054000854492,
+            "total_time": 6.116727352142334,
+            "save_time": 1.0040836334228516,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0734",
+            "count_time": 5.084208965301514,
+            "total_time": 6.119642734527588,
+            "save_time": 0.9783356189727783,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00016": [
+        {
+            "timestamp": "240503_0734",
+            "count_time": 11.959002017974854,
+            "total_time": 16.021772146224976,
+            "save_time": 3.9913055896759033,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0735",
+            "count_time": 10.985968828201294,
+            "total_time": 14.987559080123901,
+            "save_time": 3.930708646774292,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0735",
+            "count_time": 10.903156757354736,
+            "total_time": 15.030297040939331,
+            "save_time": 4.0663862228393555,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0735",
+            "count_time": 10.978039741516113,
+            "total_time": 15.068748950958252,
+            "save_time": 4.041661977767944,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0736",
+            "count_time": 10.921619892120361,
+            "total_time": 14.992371559143066,
+            "save_time": 4.027409076690674,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00017": [
+        {
+            "timestamp": "240503_0737",
+            "count_time": 41.009031772613525,
+            "total_time": 58.51746344566345,
+            "save_time": 17.324300289154053,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0738",
+            "count_time": 34.146018266677856,
+            "total_time": 50.24985384941101,
+            "save_time": 15.8847177028656,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0740",
+            "count_time": 34.57821583747864,
+            "total_time": 51.03856301307678,
+            "save_time": 16.22783851623535,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0741",
+            "count_time": 34.33761501312256,
+            "total_time": 51.74017882347107,
+            "save_time": 17.184372425079346,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0744",
+            "count_time": 34.651915311813354,
+            "total_time": 50.29075884819031,
+            "save_time": 15.445675134658813,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00018": [
+        {
+            "timestamp": "240503_0745",
+            "count_time": 3.8512096405029297,
+            "total_time": 4.165179014205933,
+            "save_time": 0.2543466091156006,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0746",
+            "count_time": 3.909148931503296,
+            "total_time": 4.223617076873779,
+            "save_time": 0.25740933418273926,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0746",
+            "count_time": 3.931025505065918,
+            "total_time": 4.289436340332031,
+            "save_time": 0.262509822845459,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0747",
+            "count_time": 3.8807756900787354,
+            "total_time": 4.204188346862793,
+            "save_time": 0.24929332733154297,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0748",
+            "count_time": 3.920860767364502,
+            "total_time": 4.214255094528198,
+            "save_time": 0.24769163131713867,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00019": [
+        {
+            "timestamp": "240503_0748",
+            "count_time": 5.059293270111084,
+            "total_time": 6.108920574188232,
+            "save_time": 0.9902396202087402,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0748",
+            "count_time": 5.057599782943726,
+            "total_time": 6.100416898727417,
+            "save_time": 0.9858191013336182,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0749",
+            "count_time": 5.076517105102539,
+            "total_time": 6.080053329467773,
+            "save_time": 0.9570419788360596,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0750",
+            "count_time": 5.034468173980713,
+            "total_time": 6.095735549926758,
+            "save_time": 1.0056791305541992,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0751",
+            "count_time": 4.9915385246276855,
+            "total_time": 6.04813814163208,
+            "save_time": 0.9559237957000732,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00020": [
+        {
+            "timestamp": "240503_0751",
+            "count_time": 12.689183473587036,
+            "total_time": 16.6903395652771,
+            "save_time": 3.9311344623565674,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0751",
+            "count_time": 11.244582414627075,
+            "total_time": 15.204413414001465,
+            "save_time": 3.876863479614258,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0752",
+            "count_time": 10.788666009902954,
+            "total_time": 14.769418954849243,
+            "save_time": 3.921494483947754,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0752",
+            "count_time": 10.829932451248169,
+            "total_time": 14.905868291854858,
+            "save_time": 4.016446352005005,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0752",
+            "count_time": 10.886970520019531,
+            "total_time": 14.888165473937988,
+            "save_time": 3.930299758911133,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00021": [
+        {
+            "timestamp": "240503_0753",
+            "count_time": 44.16870856285095,
+            "total_time": 61.10419845581055,
+            "save_time": 16.775676250457764,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0754",
+            "count_time": 37.28443098068237,
+            "total_time": 53.656898498535156,
+            "save_time": 16.158855438232422,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0756",
+            "count_time": 35.78504395484924,
+            "total_time": 53.43282675743103,
+            "save_time": 17.45110058784485,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0757",
+            "count_time": 35.817421674728394,
+            "total_time": 54.81804370880127,
+            "save_time": 18.59848976135254,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0758",
+            "count_time": 35.079540491104126,
+            "total_time": 51.14168095588684,
+            "save_time": 15.837448596954346,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00022": [
+        {
+            "timestamp": "240503_0800",
+            "count_time": 3.837977409362793,
+            "total_time": 4.163601398468018,
+            "save_time": 0.25641417503356934,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0801",
+            "count_time": 3.9704885482788086,
+            "total_time": 4.296735048294067,
+            "save_time": 0.2637450695037842,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0801",
+            "count_time": 3.9277896881103516,
+            "total_time": 4.230480670928955,
+            "save_time": 0.2462139129638672,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0803",
+            "count_time": 3.9255716800689697,
+            "total_time": 4.240305662155151,
+            "save_time": 0.2610652446746826,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0804",
+            "count_time": 3.938786268234253,
+            "total_time": 4.275804281234741,
+            "save_time": 0.2492523193359375,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00023": [
+        {
+            "timestamp": "240503_0804",
+            "count_time": 5.1429173946380615,
+            "total_time": 6.304436445236206,
+            "save_time": 0.9944682121276855,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0805",
+            "count_time": 5.079880714416504,
+            "total_time": 6.223875284194946,
+            "save_time": 1.0006141662597656,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0806",
+            "count_time": 5.026629447937012,
+            "total_time": 6.077162027359009,
+            "save_time": 0.9711194038391113,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0806",
+            "count_time": 5.038315773010254,
+            "total_time": 6.303332567214966,
+            "save_time": 1.027538776397705,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0806",
+            "count_time": 5.092220067977905,
+            "total_time": 6.1467413902282715,
+            "save_time": 1.0108239650726318,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00024": [
+        {
+            "timestamp": "240503_0806",
+            "count_time": 12.790549278259277,
+            "total_time": 16.833322286605835,
+            "save_time": 3.9788341522216797,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0808",
+            "count_time": 11.024706363677979,
+            "total_time": 15.052704811096191,
+            "save_time": 3.9688851833343506,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0808",
+            "count_time": 11.377049922943115,
+            "total_time": 15.303263187408447,
+            "save_time": 3.8661296367645264,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0809",
+            "count_time": 11.22553014755249,
+            "total_time": 15.280901193618774,
+            "save_time": 4.006694078445435,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0809",
+            "count_time": 11.235437393188477,
+            "total_time": 15.871724605560303,
+            "save_time": 4.575571298599243,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00025": [
+        {
+            "timestamp": "240503_0810",
+            "count_time": 42.3277325630188,
+            "total_time": 58.75306177139282,
+            "save_time": 16.26562237739563,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0811",
+            "count_time": 40.53435564041138,
+            "total_time": 59.78868389129639,
+            "save_time": 19.022157669067383,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0812",
+            "count_time": 41.03479838371277,
+            "total_time": 57.91659450531006,
+            "save_time": 16.677593231201172,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0813",
+            "count_time": 40.17317175865173,
+            "total_time": 58.07130241394043,
+            "save_time": 17.710835456848145,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0814",
+            "count_time": 39.10459494590759,
+            "total_time": 55.65256476402283,
+            "save_time": 16.38036608695984,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00026": [
+        {
+            "timestamp": "240503_0815",
+            "count_time": 3.8566060066223145,
+            "total_time": 4.178478002548218,
+            "save_time": 0.2596909999847412,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0815",
+            "count_time": 4.020408630371094,
+            "total_time": 4.33626914024353,
+            "save_time": 0.2566335201263428,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0815",
+            "count_time": 3.908583402633667,
+            "total_time": 4.250050067901611,
+            "save_time": 0.2613797187805176,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0815",
+            "count_time": 3.9073679447174072,
+            "total_time": 4.248243093490601,
+            "save_time": 0.2526276111602783,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0815",
+            "count_time": 4.054455757141113,
+            "total_time": 4.381403923034668,
+            "save_time": 0.25824737548828125,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00027": [
+        {
+            "timestamp": "240503_0815",
+            "count_time": 5.196637868881226,
+            "total_time": 6.26365065574646,
+            "save_time": 1.0048391819000244,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0815",
+            "count_time": 5.046062469482422,
+            "total_time": 6.103933334350586,
+            "save_time": 0.9859030246734619,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0816",
+            "count_time": 4.9718406200408936,
+            "total_time": 6.0273027420043945,
+            "save_time": 0.9829959869384766,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0816",
+            "count_time": 5.080084323883057,
+            "total_time": 6.117357969284058,
+            "save_time": 0.9643313884735107,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00028": [
+        {
+            "timestamp": "240503_0816",
+            "count_time": 12.53153920173645,
+            "total_time": 16.54980158805847,
+            "save_time": 3.961956262588501,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0817",
+            "count_time": 11.039904117584229,
+            "total_time": 15.255915880203247,
+            "save_time": 4.163454532623291,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0817",
+            "count_time": 11.320972681045532,
+            "total_time": 15.407488107681274,
+            "save_time": 4.024901866912842,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0818",
+            "count_time": 11.089630365371704,
+            "total_time": 15.34985089302063,
+            "save_time": 4.1947619915008545,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0818",
+            "count_time": 11.343523025512695,
+            "total_time": 15.595566987991333,
+            "save_time": 4.19523286819458,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00029": [
+        {
+            "timestamp": "240503_0818",
+            "count_time": 42.117244720458984,
+            "total_time": 58.820165157318115,
+            "save_time": 16.530174255371094,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0819",
+            "count_time": 41.796985149383545,
+            "total_time": 58.85919380187988,
+            "save_time": 16.473519563674927,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0820",
+            "count_time": 39.88900589942932,
+            "total_time": 56.824265003204346,
+            "save_time": 16.73097825050354,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0821",
+            "count_time": 40.97222137451172,
+            "total_time": 57.766396045684814,
+            "save_time": 16.61344838142395,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0822",
+            "count_time": 40.199018478393555,
+            "total_time": 57.084413290023804,
+            "save_time": 16.74328088760376,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00093": [
+        {
+            "timestamp": "240503_0824",
+            "count_time": 3.8909754753112793,
+            "total_time": 3.982025146484375,
+            "save_time": 0.025441408157348633,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0824",
+            "count_time": 3.955571174621582,
+            "total_time": 4.026941299438477,
+            "save_time": 0.02666640281677246,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0824",
+            "count_time": 3.8872792720794678,
+            "total_time": 4.0018086433410645,
+            "save_time": 0.027652263641357422,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0824",
+            "count_time": 4.0124757289886475,
+            "total_time": 4.118726015090942,
+            "save_time": 0.02704024314880371,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0824",
+            "count_time": 3.789755344390869,
+            "total_time": 3.881157398223877,
+            "save_time": 0.028185129165649414,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00094": [
+        {
+            "timestamp": "240503_0824",
+            "count_time": 4.744670152664185,
+            "total_time": 5.070824146270752,
+            "save_time": 0.08562970161437988,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0825",
+            "count_time": 4.84771466255188,
+            "total_time": 4.999516010284424,
+            "save_time": 0.08658385276794434,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0825",
+            "count_time": 4.771820545196533,
+            "total_time": 4.905226230621338,
+            "save_time": 0.07847189903259277,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0825",
+            "count_time": 4.696077823638916,
+            "total_time": 4.843812465667725,
+            "save_time": 0.08699750900268555,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0826",
+            "count_time": 4.7713539600372314,
+            "total_time": 4.9143900871276855,
+            "save_time": 0.08658695220947266,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00095": [
+        {
+            "timestamp": "240503_0826",
+            "count_time": 11.23367977142334,
+            "total_time": 11.616189956665039,
+            "save_time": 0.33262062072753906,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0826",
+            "count_time": 9.582933187484741,
+            "total_time": 10.186247825622559,
+            "save_time": 0.34119486808776855,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0826",
+            "count_time": 9.759292602539062,
+            "total_time": 10.172159433364868,
+            "save_time": 0.33038973808288574,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0827",
+            "count_time": 9.430988311767578,
+            "total_time": 9.822480201721191,
+            "save_time": 0.3315117359161377,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0827",
+            "count_time": 9.673360109329224,
+            "total_time": 10.075790405273438,
+            "save_time": 0.3323791027069092,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ],
+    "00096": [
+        {
+            "timestamp": "240503_0827",
+            "count_time": 36.94187307357788,
+            "total_time": 38.3398916721344,
+            "save_time": 1.2062995433807373,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0828",
+            "count_time": 34.33840537071228,
+            "total_time": 35.73938059806824,
+            "save_time": 1.1959333419799805,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0828",
+            "count_time": 34.36036419868469,
+            "total_time": 35.715943813323975,
+            "save_time": 1.200735330581665,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0829",
+            "count_time": 34.027559995651245,
+            "total_time": 35.44750785827637,
+            "save_time": 1.2005560398101807,
+            "image": "stempy-mpi-3.3.14"
+        },
+        {
+            "timestamp": "240503_0830",
+            "count_time": 34.7018768787384,
+            "total_time": 36.069825887680054,
+            "save_time": 1.2135326862335205,
+            "image": "stempy-mpi-3.3.14"
+        }
+    ]
+}

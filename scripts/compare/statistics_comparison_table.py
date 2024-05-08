@@ -52,7 +52,7 @@ def main():
     latex_table.append(r"\begin{table}[H]")
     latex_table.append(r"\caption{" + f"{caption}" + "}")
     latex_table.append(r"\centering")
-    latex_table.append(r"\renewcommand{\arraystretch}{2.5}")
+    latex_table.append(r"\renewcommand{\arraystretch}{1}")
     latex_table.append(r"\begin{tabular}{ccccc}")
     latex_table.append(r"\toprule")
     latex_table.append(

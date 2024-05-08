@@ -54,15 +54,32 @@ def read_and_prepare_data():
         "/streaming_analysis/data/file_transfer/ncem_offload_times.csv"
     )
     offload_dict = dict(zip(offload_df["size"], offload_df["offload_time"]))
+
+    # Make write times
+    write_time_df = pd.read_csv(
+        "/streaming_analysis/data/file_transfer/save_time_stats.csv"
+    )
+    # Get the mean times for everything
+    mean_df = write_time_df[write_time_df["Stat"] == "mean"]
+
+    # Get the save times
+    pivot_df = mean_df.pivot(index="Size", columns="Type", values="save_time")
+
+    # subtract blank time
+    pivot_df["overhead"] = pivot_df["Real"] - pivot_df["Blank"]
+
+    # just get the overheads in a dictionary.
+    save_overhead = pivot_df["overhead"].to_dict()
+
     streaming_dfs = {
         size: pd.read_csv(f"/streaming_analysis/data/streaming/{filename}")
         for size, filename in filename_map.items()
     }
-    return df, offload_dict, streaming_dfs
+    return df, offload_dict, streaming_dfs, save_overhead
 
 
 def main():
-    merged_df, offload_dict, streaming_dfs = read_and_prepare_data()
+    merged_df, offload_dict, streaming_dfs, save_overhead = read_and_prepare_data()
 
     for size, _ in filename_map.items():
         stats_dict = {}
@@ -97,6 +114,7 @@ def main():
         # Add offload time to Original histograms
         offload_time = offload_dict.get(int(size), 0)
         elapsed_seconds += offload_time
+        elapsed_seconds -= save_overhead.get(int(size), 0) * 2  # Subtract 2x overhead
 
         # Calculate statistics for Original histograms with outliers
         calculate_and_write_stats(

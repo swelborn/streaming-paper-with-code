@@ -1,0 +1,3322 @@
+======================================================
+Starting scans for scan number 14...
+Run 0 of scan 14...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:302
+mean:20.5726
+variance:5.6515
+std dev:2.37729
+number of bins:291
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4695
+optimized std dev:1.78397
+background threshold:28.4973
+xray threshold:436.598
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0733_16075_00014_0c0dbb6f-3b57-44eb-bc50-f0f9d456d9f6.h5
+Run 1 of scan 14...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:297
+mean:20.6039
+variance:5.60409
+std dev:2.3673
+number of bins:286
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5005
+optimized std dev:1.78919
+background threshold:28.5519
+xray threshold:434.881
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0733_16075_00014_b19bea78-6205-489c-ba61-8453bad408eb.h5
+Run 2 of scan 14...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:277
+mean:20.5489
+variance:5.61754
+std dev:2.37013
+number of bins:266
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4485
+optimized std dev:1.78924
+background threshold:28.5001
+xray threshold:435.322
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0733_16075_00014_bd1a2afd-80f3-451b-9e34-074ee5b7f66d.h5
+Run 3 of scan 14...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:302
+mean:20.556
+variance:5.61382
+std dev:2.36935
+number of bins:291
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4529
+optimized std dev:1.78694
+background threshold:28.4942
+xray threshold:435.192
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0733_16075_00014_844a8a05-1b85-42dc-b33c-be622b23b318.h5
+Run 4 of scan 14...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:235
+mean:20.5684
+variance:5.69819
+std dev:2.38709
+number of bins:224
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4638
+optimized std dev:1.7886
+background threshold:28.5124
+xray threshold:438.309
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000014_*.data
+start counting #14
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0733_16075_00014_d3c44396-00d7-491c-a182-89f6c3e244d1.h5
+======================================================
+======================================================
+Starting scans for scan number 15...
+Run 0 of scan 15...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:12
+max sample:326
+mean:20.6631
+variance:5.59346
+std dev:2.36505
+number of bins:314
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5588
+optimized std dev:1.78925
+background threshold:28.6104
+xray threshold:434.547
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0733_16076_00015_b2201d8a-72da-4954-81de-ff1f53e28ed9.h5
+Run 1 of scan 15...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:325
+mean:20.7185
+variance:5.57393
+std dev:2.36092
+number of bins:314
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.6142
+optimized std dev:1.78507
+background threshold:28.647
+xray threshold:433.879
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0734_16076_00015_5f423f96-cd19-40f9-b638-17b071895a1a.h5
+Run 2 of scan 15...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:12
+max sample:301
+mean:20.6579
+variance:5.68063
+std dev:2.38341
+number of bins:289
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5508
+optimized std dev:1.78695
+background threshold:28.5921
+xray threshold:437.754
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0734_16076_00015_b1be6a59-d80a-4c51-b4b1-645f2e93d822.h5
+Run 3 of scan 15...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.8
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:291
+mean:20.6329
+variance:5.60462
+std dev:2.36741
+number of bins:280
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5282
+optimized std dev:1.78525
+background threshold:28.5618
+xray threshold:434.929
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0734_16076_00015_33123808-13ec-4160-ab2d-c652e76f81d6.h5
+Run 4 of scan 15...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:301
+mean:20.6647
+variance:5.53125
+std dev:2.35186
+number of bins:290
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5614
+optimized std dev:1.78549
+background threshold:28.5961
+xray threshold:432.24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000015_*.data
+start counting #15
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0734_16076_00015_0a33b7b1-f16e-4c66-9924-86368c9c0178.h5
+======================================================
+======================================================
+Starting scans for scan number 16...
+Run 0 of scan 16...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:267
+mean:20.6235
+variance:5.52377
+std dev:2.35027
+number of bins:256
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.523
+optimized std dev:1.78502
+background threshold:28.5555
+xray threshold:431.921
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0734_16077_00016_db253430-852d-4d45-9ae2-f2f374893a63.h5
+Run 1 of scan 16...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:323
+mean:20.6475
+variance:5.59328
+std dev:2.36501
+number of bins:312
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.545
+optimized std dev:1.78346
+background threshold:28.5706
+xray threshold:434.524
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0735_16077_00016_0944f7d0-0989-4667-b33b-06814ce796dd.h5
+Run 2 of scan 16...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:323
+mean:20.6469
+variance:5.60647
+std dev:2.3678
+number of bins:312
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5444
+optimized std dev:1.78331
+background threshold:28.5693
+xray threshold:435.012
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0735_16077_00016_7c070303-1cf1-4ca5-b775-5c5e553f51c9.h5
+Run 3 of scan 16...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:323
+mean:20.6414
+variance:5.60361
+std dev:2.3672
+number of bins:312
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5392
+optimized std dev:1.78326
+background threshold:28.5639
+xray threshold:434.901
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0735_16077_00016_c901810f-04d1-457c-b27a-fb5e5bb22ad4.h5
+Run 4 of scan 16...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:323
+mean:20.6415
+variance:5.61951
+std dev:2.37055
+number of bins:312
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5391
+optimized std dev:1.78351
+background threshold:28.5649
+xray threshold:435.488
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000016_*.data
+start counting #16
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0736_16077_00016_4f058d48-1818-4ac6-aad4-07dd03ee5d64.h5
+======================================================
+======================================================
+Starting scans for scan number 17...
+Run 0 of scan 17...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.15
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:12
+max sample:284
+mean:20.6708
+variance:5.5864
+std dev:2.36356
+number of bins:272
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5687
+optimized std dev:1.79614
+background threshold:28.6513
+xray threshold:434.293
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0737_16078_00017_48005b59-2b7e-4fec-9bb0-adc27c9e1830.h5
+Run 1 of scan 17...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:284
+mean:20.6689
+variance:5.63853
+std dev:2.37456
+number of bins:273
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.566
+optimized std dev:1.79588
+background threshold:28.6475
+xray threshold:436.217
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0738_16078_00017_62c19bfb-7c53-4309-b872-f9000d420816.h5
+Run 2 of scan 17...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.17
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:12
+max sample:284
+mean:20.6858
+variance:5.63952
+std dev:2.37477
+number of bins:272
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5826
+optimized std dev:1.79561
+background threshold:28.6629
+xray threshold:436.27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0740_16078_00017_3e65083f-baa1-4e1a-8dbd-0227ff0302db.h5
+Run 3 of scan 17...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:320
+mean:20.6694
+variance:5.59633
+std dev:2.36566
+number of bins:309
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5667
+optimized std dev:1.79516
+background threshold:28.6449
+xray threshold:434.659
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0741_16078_00017_8086187f-c7bc-4430-a173-9fa5e06024b8.h5
+Run 4 of scan 17...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.19
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:12
+max sample:284
+mean:20.6828
+variance:5.59052
+std dev:2.36443
+number of bins:272
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.58
+optimized std dev:1.79548
+background threshold:28.6597
+xray threshold:434.458
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000017_*.data
+start counting #17
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0744_16078_00017_631cb9c4-fb45-4731-929c-9340dbbb6002.h5
+======================================================
+======================================================
+Starting scans for scan number 18...
+Run 0 of scan 18...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:273
+mean:20.5345
+variance:5.57149
+std dev:2.3604
+number of bins:263
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4325
+optimized std dev:1.78433
+background threshold:28.462
+xray threshold:433.605
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0745_16079_00018_5299554a-28b4-47a9-8d67-b155d9e0b158.h5
+Run 1 of scan 18...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.21
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:254
+mean:20.5375
+variance:5.543
+std dev:2.35436
+number of bins:243
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4344
+optimized std dev:1.78511
+background threshold:28.4674
+xray threshold:432.55
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0746_16079_00018_2210756c-eebd-4ff5-a32a-f5d4fc04a5f9.h5
+Run 2 of scan 18...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:273
+mean:20.4719
+variance:5.63301
+std dev:2.3734
+number of bins:262
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.3695
+optimized std dev:1.78492
+background threshold:28.4017
+xray threshold:435.816
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0746_16079_00018_8a9f00da-a2fd-4b10-9e05-68f9b30eb798.h5
+Run 3 of scan 18...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.23
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:247
+mean:20.5053
+variance:5.59309
+std dev:2.36497
+number of bins:236
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4045
+optimized std dev:1.78721
+background threshold:28.447
+xray threshold:434.375
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0747_16079_00018_c1828f20-37a0-41c9-a0db-81574a8d6548.h5
+Run 4 of scan 18...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.24
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:12
+max sample:273
+mean:20.5282
+variance:5.5906
+std dev:2.36445
+number of bins:261
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4247
+optimized std dev:1.78563
+background threshold:28.4601
+xray threshold:434.306
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000018_*.data
+start counting #18
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0748_16079_00018_48c9fc60-b4c4-4054-b83f-8c2c12a6793a.h5
+======================================================
+======================================================
+Starting scans for scan number 19...
+Run 0 of scan 19...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:310
+mean:20.5539
+variance:5.65216
+std dev:2.37743
+number of bins:299
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4497
+optimized std dev:1.78273
+background threshold:28.472
+xray threshold:436.604
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0748_16080_00019_e530b487-2bb4-4810-bf1f-f4b0fc76cf87.h5
+Run 1 of scan 19...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.26
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:294
+mean:20.5514
+variance:5.54685
+std dev:2.35518
+number of bins:284
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4499
+optimized std dev:1.78201
+background threshold:28.4689
+xray threshold:432.707
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0748_16080_00019_a7811f38-351d-4b83-8a70-a8a0f0b73e3d.h5
+Run 2 of scan 19...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.27
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:271
+mean:20.566
+variance:5.5698
+std dev:2.36004
+number of bins:260
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4643
+optimized std dev:1.78319
+background threshold:28.4887
+xray threshold:433.574
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0749_16080_00019_04f156fb-a778-4b9e-893e-3f32b3ccf797.h5
+Run 3 of scan 19...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.28
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:287
+mean:20.5592
+variance:5.67286
+std dev:2.38178
+number of bins:276
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4571
+optimized std dev:1.78314
+background threshold:28.4813
+xray threshold:437.37
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0750_16080_00019_905fa33b-8f78-4e68-a7ee-6cefd788029b.h5
+Run 4 of scan 19...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:294
+mean:20.5427
+variance:5.60945
+std dev:2.36843
+number of bins:283
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4392
+optimized std dev:1.78737
+background threshold:28.4824
+xray threshold:435.018
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000019_*.data
+start counting #19
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0751_16080_00019_d0d53735-1824-430a-b449-3970e4ecf43c.h5
+======================================================
+======================================================
+Starting scans for scan number 20...
+Run 0 of scan 20...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.30
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:275
+mean:20.5215
+variance:5.72257
+std dev:2.39219
+number of bins:264
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4142
+optimized std dev:1.79519
+background threshold:28.4926
+xray threshold:439.155
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0751_16081_00020_03839cc8-08a1-4283-9ab8-1732a8bea3b1.h5
+Run 1 of scan 20...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:294
+mean:20.5238
+variance:5.79259
+std dev:2.40678
+number of bins:283
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4162
+optimized std dev:1.79656
+background threshold:28.5007
+xray threshold:441.71
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0751_16081_00020_ff4a79e9-fdfd-47fd-a115-9701ab386d72.h5
+Run 2 of scan 20...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:294
+mean:20.5047
+variance:5.77351
+std dev:2.40281
+number of bins:283
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.3975
+optimized std dev:1.79613
+background threshold:28.4801
+xray threshold:440.997
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0752_16081_00020_def4defd-222e-4e84-bbb3-33394350a569.h5
+Run 3 of scan 20...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.33
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:294
+mean:20.5113
+variance:5.77285
+std dev:2.40267
+number of bins:283
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.404
+optimized std dev:1.79623
+background threshold:28.4871
+xray threshold:440.979
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0752_16081_00020_238bf247-a1a3-4395-9dd7-2963f0214a9c.h5
+Run 4 of scan 20...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:294
+mean:20.4979
+variance:5.75389
+std dev:2.39873
+number of bins:283
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.3911
+optimized std dev:1.79618
+background threshold:28.4739
+xray threshold:440.275
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000020_*.data
+start counting #20
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0752_16081_00020_d1e0909c-fc65-43c1-89db-80bc4b3d84a5.h5
+======================================================
+======================================================
+Starting scans for scan number 21...
+Run 0 of scan 21...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:266
+mean:20.5853
+variance:5.78472
+std dev:2.40514
+number of bins:255
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4803
+optimized std dev:1.78863
+background threshold:28.5291
+xray threshold:441.485
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0753_16082_00021_ff93b38b-c5cb-4a6d-9487-1917e23c1b66.h5
+Run 1 of scan 21...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:273
+mean:20.5944
+variance:5.78389
+std dev:2.40497
+number of bins:262
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.489
+optimized std dev:1.78838
+background threshold:28.5367
+xray threshold:441.464
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0754_16082_00021_b4cf7e92-74a9-4139-99f6-6128cb78977f.h5
+Run 2 of scan 21...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.37
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:273
+mean:20.5986
+variance:5.74324
+std dev:2.39651
+number of bins:262
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4946
+optimized std dev:1.78896
+background threshold:28.5449
+xray threshold:439.987
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0756_16082_00021_26b276e4-bba9-4d16-91e1-5e69e7273452.h5
+Run 3 of scan 21...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:266
+mean:20.5971
+variance:5.74769
+std dev:2.39743
+number of bins:255
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4925
+optimized std dev:1.78853
+background threshold:28.5409
+xray threshold:440.148
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0757_16082_00021_3e24c18d-aef7-4feb-b34a-df1553f3b813.h5
+Run 4 of scan 21...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:266
+mean:20.5934
+variance:5.7922
+std dev:2.4067
+number of bins:255
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4871
+optimized std dev:1.78737
+background threshold:28.5303
+xray threshold:441.766
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000021_*.data
+start counting #21
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0758_16082_00021_274d8e8c-ac07-4429-b316-2d34694952f2.h5
+======================================================
+======================================================
+Starting scans for scan number 22...
+Run 0 of scan 22...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:268
+mean:20.575
+variance:5.64587
+std dev:2.3761
+number of bins:257
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4741
+optimized std dev:1.78817
+background threshold:28.5209
+xray threshold:436.393
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0800_16083_00022_c4a10d8d-ea21-4d7f-acc8-1f3703b29150.h5
+Run 1 of scan 22...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.41
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:303
+mean:20.6018
+variance:5.61122
+std dev:2.3688
+number of bins:292
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4992
+optimized std dev:1.78822
+background threshold:28.5462
+xray threshold:435.142
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0801_16083_00022_85643d64-7681-4701-862e-10604ab7eb67.h5
+Run 2 of scan 22...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:319
+mean:20.5574
+variance:5.61181
+std dev:2.36893
+number of bins:308
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4563
+optimized std dev:1.78394
+background threshold:28.484
+xray threshold:435.119
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0801_16083_00022_cbbdf83d-a893-446b-ae81-dbe4d560090e.h5
+Run 3 of scan 22...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.43
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:236
+mean:20.6229
+variance:5.51344
+std dev:2.34807
+number of bins:226
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5221
+optimized std dev:1.78486
+background threshold:28.554
+xray threshold:431.535
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0803_16083_00022_cfc5848f-6516-44c8-bb99-02cf9c83854a.h5
+Run 4 of scan 22...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.44
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:239
+mean:20.5425
+variance:5.7385
+std dev:2.39552
+number of bins:229
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4388
+optimized std dev:1.78674
+background threshold:28.4791
+xray threshold:439.758
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000022_*.data
+start counting #22
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0804_16083_00022_570872f1-8bd1-47b8-b638-0f74dbc2f368.h5
+======================================================
+======================================================
+Starting scans for scan number 23...
+Run 0 of scan 23...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:284
+mean:20.5885
+variance:5.52747
+std dev:2.35106
+number of bins:274
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4883
+optimized std dev:1.78674
+background threshold:28.5286
+xray threshold:432.023
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0804_16084_00023_86621016-cb38-460a-9e72-48400015d885.h5
+Run 1 of scan 23...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.46
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:9
+max sample:284
+mean:20.6234
+variance:5.59195
+std dev:2.36473
+number of bins:275
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5213
+optimized std dev:1.79291
+background threshold:28.5894
+xray threshold:434.451
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0805_16084_00023_56199461-e320-48b3-a8c4-904ef8bb1983.h5
+Run 2 of scan 23...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.47
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:284
+mean:20.6129
+variance:5.62725
+std dev:2.37218
+number of bins:274
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5099
+optimized std dev:1.7876
+background threshold:28.5541
+xray threshold:435.745
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0806_16084_00023_d84ea53e-da64-4f53-8ac8-284adc674560.h5
+Run 3 of scan 23...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.48
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:284
+mean:20.6139
+variance:5.55355
+std dev:2.3566
+number of bins:274
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5117
+optimized std dev:1.78689
+background threshold:28.5527
+xray threshold:433.018
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0806_16084_00023_3bb2a2f8-1df2-4434-946f-623f6cc7b239.h5
+Run 4 of scan 23...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:284
+mean:20.6295
+variance:5.65938
+std dev:2.37894
+number of bins:273
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5248
+optimized std dev:1.79231
+background threshold:28.5902
+xray threshold:436.945
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000023_*.data
+start counting #23
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0806_16084_00023_2a295d75-3432-48ad-aea3-199627f17153.h5
+======================================================
+======================================================
+Starting scans for scan number 24...
+Run 0 of scan 24...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:263
+mean:20.4949
+variance:5.61261
+std dev:2.36909
+number of bins:253
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.3914
+optimized std dev:1.7876
+background threshold:28.4356
+xray threshold:435.086
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0806_16085_00024_1acc6b3d-583f-4e51-86f5-52fb8c59b2ed.h5
+Run 1 of scan 24...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.51
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:271
+mean:20.5416
+variance:5.59366
+std dev:2.36509
+number of bins:261
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4382
+optimized std dev:1.78896
+background threshold:28.4885
+xray threshold:434.433
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0808_16085_00024_9417a3ae-8b5a-4d5b-a489-827ad930ac40.h5
+Run 2 of scan 24...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.52
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:263
+mean:20.4695
+variance:5.62063
+std dev:2.37079
+number of bins:253
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.3659
+optimized std dev:1.78689
+background threshold:28.4069
+xray threshold:435.357
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0808_16085_00024_4936b9dc-2cbc-4531-af9d-05a96c2bc76c.h5
+Run 3 of scan 24...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:263
+mean:20.4975
+variance:5.6043
+std dev:2.36734
+number of bins:253
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.3938
+optimized std dev:1.78752
+background threshold:28.4376
+xray threshold:434.782
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0809_16085_00024_0bf3a78d-a877-4329-9f76-2a92aca2953e.h5
+Run 4 of scan 24...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:263
+mean:20.4873
+variance:5.6349
+std dev:2.37379
+number of bins:253
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.3848
+optimized std dev:1.78794
+background threshold:28.4305
+xray threshold:435.901
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000024_*.data
+start counting #24
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0809_16085_00024_bfc0a63e-df27-4d14-b049-cb5eb8f9a644.h5
+======================================================
+======================================================
+Starting scans for scan number 25...
+Run 0 of scan 25...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.55
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:337
+mean:20.5116
+variance:5.66389
+std dev:2.37989
+number of bins:326
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4104
+optimized std dev:1.79298
+background threshold:28.4788
+xray threshold:436.993
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0810_16086_00025_20ccc843-41c9-4add-a536-177425d46d84.h5
+Run 1 of scan 25...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:337
+mean:20.5476
+variance:5.66457
+std dev:2.38003
+number of bins:326
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4449
+optimized std dev:1.79236
+background threshold:28.5105
+xray threshold:437.054
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0811_16086_00025_b7c2566c-96f6-4621-b284-fb462e6509a3.h5
+Run 2 of scan 25...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:337
+mean:20.5622
+variance:5.62191
+std dev:2.37106
+number of bins:326
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4601
+optimized std dev:1.79149
+background threshold:28.5218
+xray threshold:435.497
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0812_16086_00025_d313e2ca-12f9-4230-93eb-0fe3f70e60d2.h5
+Run 3 of scan 25...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:337
+mean:20.5516
+variance:5.64841
+std dev:2.37664
+number of bins:326
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4493
+optimized std dev:1.79205
+background threshold:28.5135
+xray threshold:436.463
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0813_16086_00025_ef24f154-7bc7-422f-a259-a46cc2dec0e2.h5
+Run 4 of scan 25...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:337
+mean:20.5278
+variance:5.64629
+std dev:2.37619
+number of bins:326
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4253
+optimized std dev:1.79099
+background threshold:28.4847
+xray threshold:436.361
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000025_*.data
+start counting #25
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0814_16086_00025_ad56afe2-04e2-48d2-af62-9940209937b2.h5
+======================================================
+======================================================
+Starting scans for scan number 26...
+Run 0 of scan 26...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:270
+mean:20.6212
+variance:5.60194
+std dev:2.36684
+number of bins:260
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5184
+optimized std dev:1.78394
+background threshold:28.5461
+xray threshold:434.819
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0815_16091_00026_917bb8a3-3616-494a-a57c-a22919663acb.h5
+Run 1 of scan 26...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.61
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:266
+mean:20.596
+variance:5.69668
+std dev:2.38677
+number of bins:255
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4904
+optimized std dev:1.78512
+background threshold:28.5234
+xray threshold:438.281
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0815_16091_00026_f6b975d3-a07f-47a1-8385-3576775e9428.h5
+Run 2 of scan 26...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:266
+mean:20.6057
+variance:5.71125
+std dev:2.38982
+number of bins:255
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5017
+optimized std dev:1.78723
+background threshold:28.5442
+xray threshold:438.825
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0815_16091_00026_2afb407b-47a9-4ba5-825c-917e69243a78.h5
+Run 3 of scan 26...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:12
+max sample:260
+mean:20.5764
+variance:5.67716
+std dev:2.38268
+number of bins:248
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4742
+optimized std dev:1.78511
+background threshold:28.5072
+xray threshold:437.545
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0815_16091_00026_e4d55cee-7dae-4bfd-b462-088dbe55e4b7.h5
+Run 4 of scan 26...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:288
+mean:20.5776
+variance:5.62226
+std dev:2.37113
+number of bins:278
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4739
+optimized std dev:1.78607
+background threshold:28.5112
+xray threshold:435.525
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000026_*.data
+start counting #26
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0815_16091_00026_a5c35e51-b267-481d-b131-82b0a88cdcf5.h5
+======================================================
+======================================================
+Starting scans for scan number 27...
+Run 0 of scan 27...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:270
+mean:20.6237
+variance:5.71615
+std dev:2.39085
+number of bins:259
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5202
+optimized std dev:1.79095
+background threshold:28.5794
+xray threshold:439.022
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0815_16092_00027_23b8e473-d773-4404-a41d-1f547a76ca71.h5
+Run 1 of scan 27...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:287
+mean:20.6475
+variance:5.72768
+std dev:2.39326
+number of bins:276
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.545
+optimized std dev:1.7919
+background threshold:28.6086
+xray threshold:439.468
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0815_16092_00027_fafe8d69-baf7-4538-ac4d-b6eab08d53c0.h5
+Run 2 of scan 27...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:256
+mean:20.5987
+variance:5.60982
+std dev:2.36851
+number of bins:245
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4979
+optimized std dev:1.7876
+background threshold:28.5421
+xray threshold:435.087
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0816_16092_00027_05b686c5-ac92-4cee-a1b6-18a2488763b3.h5
+Run 3 of scan 27...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.68
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:282
+mean:20.6548
+variance:5.59773
+std dev:2.36595
+number of bins:271
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5535
+optimized std dev:1.78988
+background threshold:28.608
+xray threshold:434.696
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0816_16092_00027_643825f1-a98c-4c3a-be78-d57ec9678455.h5
+Run 4 of scan 27...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:252
+mean:20.626
+variance:5.64906
+std dev:2.37678
+number of bins:242
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5247
+optimized std dev:1.7878
+background threshold:28.5698
+xray threshold:436.562
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000027_*.data
+start counting #27
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0816_16092_00027_1abcf959-1962-4bf2-8580-2f83f93e5b3e.h5
+======================================================
+======================================================
+Starting scans for scan number 28...
+Run 0 of scan 28...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.70
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:265
+mean:20.5841
+variance:5.60433
+std dev:2.36735
+number of bins:254
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4804
+optimized std dev:1.78622
+background threshold:28.5184
+xray threshold:434.87
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0816_16093_00028_8a4232bb-5682-4365-892d-96d7e7a4c2aa.h5
+Run 1 of scan 28...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:245
+mean:20.5623
+variance:5.60328
+std dev:2.36713
+number of bins:234
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4593
+optimized std dev:1.78809
+background threshold:28.5057
+xray threshold:434.809
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0817_16093_00028_5442a847-af5f-4ba2-aeb4-f39358e236ef.h5
+Run 2 of scan 28...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.72
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:265
+mean:20.5379
+variance:5.60176
+std dev:2.3668
+number of bins:254
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4361
+optimized std dev:1.78699
+background threshold:28.4775
+xray threshold:434.728
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0817_16093_00028_fc8a9987-99d3-4f60-8b75-c50f5137a6ad.h5
+Run 3 of scan 28...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:265
+mean:20.5597
+variance:5.59461
+std dev:2.36529
+number of bins:254
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4576
+optimized std dev:1.78756
+background threshold:28.5016
+xray threshold:434.486
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0818_16093_00028_880efa81-e26b-4704-bc12-1cb1962ea47c.h5
+Run 4 of scan 28...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:265
+mean:20.5602
+variance:5.59118
+std dev:2.36457
+number of bins:254
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.4578
+optimized std dev:1.78749
+background threshold:28.5015
+xray threshold:434.36
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000028_*.data
+start counting #28
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0818_16093_00028_f15b8bb0-67f1-4716-b184-02772a5e6322.h5
+======================================================
+======================================================
+Starting scans for scan number 29...
+Run 0 of scan 29...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:262
+mean:20.6572
+variance:5.64185
+std dev:2.37526
+number of bins:252
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5538
+optimized std dev:1.79054
+background threshold:28.6113
+xray threshold:436.327
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0818_16094_00029_015330dc-abfe-4b43-9931-5c03ea8efe61.h5
+Run 1 of scan 29...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:260
+mean:20.6372
+variance:5.69573
+std dev:2.38657
+number of bins:250
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5324
+optimized std dev:1.78809
+background threshold:28.5788
+xray threshold:438.287
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0819_16094_00029_fd33450a-5ee9-44f3-bd02-5888d31fe69a.h5
+Run 2 of scan 29...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:262
+mean:20.6624
+variance:5.62391
+std dev:2.37148
+number of bins:251
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5588
+optimized std dev:1.79064
+background threshold:28.6167
+xray threshold:435.671
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0820_16094_00029_bd2d7ba2-5f98-4ab2-b7bf-1c11d1ea2e9f.h5
+Run 3 of scan 29...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:262
+mean:20.6628
+variance:5.68618
+std dev:2.38457
+number of bins:252
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5586
+optimized std dev:1.78957
+background threshold:28.6117
+xray threshold:437.963
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0821_16094_00029_53c204c8-2a26-4bea-9dd8-608dc659dd86.h5
+Run 4 of scan 29...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:11
+max sample:288
+mean:20.6097
+variance:5.74119
+std dev:2.39608
+number of bins:277
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:20.5052
+optimized std dev:1.78849
+background threshold:28.5534
+xray threshold:439.923
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data
+scan name = data_scan0000000029_*.data
+start counting #29
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-real-data/FOURD_240503_0822_16094_00029_d63c725b-f3c6-4cdf-837d-35d0e8231d81.h5
+======================================================
+======================================================
+Starting scans for scan number 93...
+Run 0 of scan 93...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:30
+mean:19.7674
+variance:3.42492
+std dev:1.85065
+number of bins:20
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.7736
+optimized std dev:1.83287
+background threshold:28.0215
+xray threshold:343.632
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0824_16162_00093_ff3d9652-3b22-4270-9135-058a0825a370.h5
+Run 1 of scan 93...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.81
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:9
+max sample:30
+mean:19.7596
+variance:3.40625
+std dev:1.8456
+number of bins:21
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.7676
+optimized std dev:1.82782
+background threshold:27.9928
+xray threshold:342.74
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0824_16162_00093_2d4c911f-e0d7-42e5-b8bb-00942bcec8bf.h5
+Run 2 of scan 93...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:29
+mean:19.6781
+variance:3.41245
+std dev:1.84728
+number of bins:19
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.685
+optimized std dev:1.82953
+background threshold:27.9179
+xray threshold:342.953
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0824_16162_00093_b9c015f4-4d97-49a9-ac5e-41d62d813fbe.h5
+Run 3 of scan 93...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:29
+mean:19.7237
+variance:3.39775
+std dev:1.8433
+number of bins:19
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.7303
+optimized std dev:1.82549
+background threshold:27.945
+xray threshold:342.301
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0824_16162_00093_b6fdd2d8-e9ed-4448-9b9d-c475ea252c6c.h5
+Run 4 of scan 93...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:29
+mean:19.7616
+variance:3.40863
+std dev:1.84625
+number of bins:19
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.7681
+optimized std dev:1.82786
+background threshold:27.9935
+xray threshold:342.855
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000093_*.data
+start counting #93
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0824_16162_00093_efecdc36-d5a0-493e-81d7-83e651457301.h5
+======================================================
+======================================================
+Starting scans for scan number 94...
+Run 0 of scan 94...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:29
+mean:19.7081
+variance:3.41012
+std dev:1.84665
+number of bins:19
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.7156
+optimized std dev:1.82869
+background threshold:27.9447
+xray threshold:342.872
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0824_16163_00094_391f8dcc-c077-4282-9f47-f65e4c8f068e.h5
+Run 1 of scan 94...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.86
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:30
+mean:19.7765
+variance:3.39083
+std dev:1.84142
+number of bins:20
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.7837
+optimized std dev:1.82462
+background threshold:27.9945
+xray threshold:342.025
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0825_16163_00094_bb869f39-e8c7-4fc1-a605-c61c22890c15.h5
+Run 2 of scan 94...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.87
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:30
+mean:19.7658
+variance:3.40923
+std dev:1.84641
+number of bins:20
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.7718
+optimized std dev:1.82854
+background threshold:28.0003
+xray threshold:342.887
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0825_16163_00094_5e74909d-568b-4d5e-b48f-775c1de7b8bd.h5
+Run 3 of scan 94...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:29
+mean:19.7122
+variance:3.40723
+std dev:1.84587
+number of bins:19
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.7189
+optimized std dev:1.8288
+background threshold:27.9485
+xray threshold:342.739
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0825_16163_00094_53ed772b-c51c-4c8e-a851-c2319c0ed459.h5
+Run 4 of scan 94...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:9
+max sample:29
+mean:19.6927
+variance:3.38645
+std dev:1.84023
+number of bins:20
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.6996
+optimized std dev:1.823
+background threshold:27.9031
+xray threshold:341.733
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000094_*.data
+start counting #94
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0826_16163_00094_3d7f8fa3-bf7b-4769-80a8-e7dbf3872e7d.h5
+======================================================
+======================================================
+Starting scans for scan number 95...
+Run 0 of scan 95...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.90
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:9
+max sample:30
+mean:19.7565
+variance:3.39456
+std dev:1.84243
+number of bins:21
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.763
+optimized std dev:1.82499
+background threshold:27.9754
+xray threshold:342.182
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0826_16164_00095_040c5fa2-d272-4bc3-96c3-88935a421d60.h5
+Run 1 of scan 95...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:9
+max sample:30
+mean:19.7563
+variance:3.39267
+std dev:1.84192
+number of bins:21
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.7625
+optimized std dev:1.82452
+background threshold:27.9728
+xray threshold:342.092
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0826_16164_00095_4d4e22a1-3d7b-4e2e-b7ad-760e7057b022.h5
+Run 2 of scan 95...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:30
+mean:19.7615
+variance:3.39584
+std dev:1.84278
+number of bins:20
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.7675
+optimized std dev:1.82541
+background threshold:27.9819
+xray threshold:342.248
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0826_16164_00095_9c72edb2-3152-4eb8-bd00-27890f298389.h5
+Run 3 of scan 95...
+srun: Job 25133857 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for StepId=25133857.93
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:30
+mean:19.7478
+variance:3.39468
+std dev:1.84247
+number of bins:20
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.754
+optimized std dev:1.82521
+background threshold:27.9674
+xray threshold:342.179
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0827_16164_00095_a6f0dc58-0c99-4f47-84b3-5e263ff47b11.h5
+Run 4 of scan 95...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:30
+mean:19.7602
+variance:3.39473
+std dev:1.84248
+number of bins:20
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.766
+optimized std dev:1.82493
+background threshold:27.9782
+xray threshold:342.194
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000095_*.data
+start counting #95
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0827_16164_00095_893e0109-1c5f-4b71-b8b0-f91ce16d520c.h5
+======================================================
+======================================================
+Starting scans for scan number 96...
+Run 0 of scan 96...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:30
+mean:19.8004
+variance:3.42026
+std dev:1.84939
+number of bins:20
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.8083
+optimized std dev:1.83221
+background threshold:28.0533
+xray threshold:343.444
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0827_16165_00096_aee0501b-fd6c-4476-84af-4014862c78d7.h5
+Run 1 of scan 96...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:30
+mean:19.8026
+variance:3.42517
+std dev:1.85072
+number of bins:20
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.8103
+optimized std dev:1.83355
+background threshold:28.0613
+xray threshold:343.679
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0828_16165_00096_569a85ba-afa2-4f30-b0cc-240c447e2a4d.h5
+Run 2 of scan 96...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:30
+mean:19.7757
+variance:3.42421
+std dev:1.85046
+number of bins:20
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.7835
+optimized std dev:1.83382
+background threshold:28.0357
+xray threshold:343.606
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0828_16165_00096_f6c65975-bb7f-46bf-985c-7553ae0b0936.h5
+Run 3 of scan 96...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:30
+mean:19.7945
+variance:3.42877
+std dev:1.85169
+number of bins:20
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.8023
+optimized std dev:1.83427
+background threshold:28.0565
+xray threshold:343.841
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0829_16165_00096_4a7a7791-735f-47b4-bf4c-dd32f546883a.h5
+Run 4 of scan 96...
+****Statistics for calculating electron thresholds****
+number of samples:1200
+min sample:10
+max sample:30
+mean:19.7883
+variance:3.42923
+std dev:1.85182
+number of bins:20
+x-ray threshold n sigma:175
+background threshold n sigma:4.5
+optimized mean:19.7965
+optimized std dev:1.83455
+background threshold:28.0519
+xray threshold:343.856
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+electron_count_cori.py
+Using files in /pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data
+scan name = data_scan0000000096_*.data
+start counting #96
+/pscratch/sd/s/swelborn/test-stempy-overhead/test-blank-data/FOURD_240503_0830_16165_00096_7f58f04d-f09e-4995-bd99-f88d7d2ecfeb.h5
+======================================================

@@ -61,7 +61,7 @@ def plot_subplot(
     shifted_elapsed_time = (
         pd.to_timedelta(filtered_df[column]).dt.total_seconds()
         + offload_time
-        - write_time
+        - write_time * 2
     )
 
     # Main plot

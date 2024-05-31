@@ -49,7 +49,7 @@ def plot_subplot(
     """Plot a histogram on a given Matplotlib axis."""
     # Define font sizes
     label_font_size = 8
-    tick_font_size = 6
+    tick_font_size = 10
 
     # Set Seaborn style
     sns.set_style("ticks")
@@ -90,7 +90,8 @@ def plot_subplot(
 
     ax.set_xlim(-5, bin_range[1])
     ax.set_ylim(0, 0.2)
-    ax.set_ylabel("Probability", fontsize=label_font_size)
+    ax.set_ylabel(None)
+    ax.set_xlabel(None)
     ax.set_yticks(np.arange(0, 0.21, step=0.05))
     ax.tick_params(axis="y", labelsize=tick_font_size)
     ax.tick_params(axis="x", labelsize=tick_font_size)
@@ -143,10 +144,10 @@ def main():
     bin_range = (0, 600)
     num_bins = 200
 
-    fig, axes = plt.subplots(4, 1, figsize=(3, 7), sharex=True)
-    plt.subplots_adjust(hspace=0.05)
+    fig, axes = plt.subplots(2, 2, figsize=(10, 8), sharex=True, sharey=True)
+    plt.subplots_adjust(hspace=0.3, wspace=0.3)
 
-    for ax, size in zip(axes, [128, 256, 512, 1024]):
+    for ax, size in zip(axes.flatten(), [128, 256, 512, 1024]):
         size_str = str(size)
         streaming_df = streaming_dfs.get(size_str, None)
         offload_time = offload_dict.get(size, 0)
@@ -163,9 +164,10 @@ def main():
             write_time,
         )
 
-    axes[-1].set_xlabel("Transfer and Count Time (s)", fontsize=8)
+    fig.text(0.5, 0.02, "Transfer and Count Time (s)", ha="center", fontsize=14)
+    fig.text(0.02, 0.5, "Probability", va="center", rotation="vertical", fontsize=14)
 
-    plt.tight_layout()
+    plt.tight_layout(rect=[0.04, 0.04, 1, 1])
     plt.savefig("/streaming_analysis/plots/transfer_histogram_combined.png", dpi=600)
     plt.close()
 
